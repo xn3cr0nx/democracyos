@@ -11,7 +11,7 @@
   "signinUrl": "",
   "signupUrl": "",
   "settingsUrl": "",
-  "staff": [],
+  "staff": ["patrickjusic96@gmail.com"],
   "allowEmailAliases": true,
   "facebookSignin": false,
   "customSignin": false,
@@ -98,17 +98,17 @@
     "recaptchaSite"
   ],
   "socialshare": {
-    "siteName": "DemocracyOS",
-    "siteDescription": "DemocracyOS voting system",
-    "image": "https://2.gravatar.com/avatar/a8b9176bd0d042db078bf38500727671?d=https%3A%2F%2Fidenticons.github.com%2F14bae9f2564556f8eb23cc263a779f59.png&s=400",
-    "domain": "democracyos.org",
+    "siteName": "Azione eDemocracy",
+    "siteDescription": "Azione voting system",
+    "image": "https://d3n8a8pro7vhmx.cloudfront.net/azione/sites/3/meta_images/original/logo_azione_mod.png?1579871563",
+    "domain": "edemocracy.azione.org",
     "twitter": {
       "username": "@democracyos"
     }
   },
-  "logo": "/lib/boot/logo.png",
-  "logoMobile": "/lib/boot/logo-mobile.png",
-  "favicon": "/lib/boot/favicon.ico",
+  "logo": "https://d3n8a8pro7vhmx.cloudfront.net/azione/sites/3/meta_images/original/logo_azione_mod.png?1579871563",
+  "logoMobile": "https://d3n8a8pro7vhmx.cloudfront.net/azione/sites/3/meta_images/original/logo_azione_mod.png?1579871563",
+  "favicon": "https://d3n8a8pro7vhmx.cloudfront.net/azione/sites/3/meta_images/original/logo_azione_mod.png?1579871563",
   "organizationName": "DemocracyOS on GitHub",
   "organizationEmail": "no-reply@democracyos.org",
   "organizationUrl": "https://github.com/DemocracyOS/app",
@@ -120,7 +120,7 @@
   "privacyPolicy": false,
   "glossary": false,
   "homeLink": "/",
-  "headerBackgroundColor": "#64476e",
+  "headerBackgroundColor": "#039",
   "headerFontColor": "#fff",
   "headerContrast": false,
   "googleAPIKey": "",
